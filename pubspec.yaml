@@ -1,5 +1,6 @@
 name: search_points
-description: A starting point for Dart libraries or applications.
+description: A Dart package offering multiple search algorithms including Linear, Binary, and Jump Search. Useful for performance comparisons and algorithmic analysis in Dart libraries and applications.
+
 version: 1.0.0
 repository: https://github.com/Tursunali008/search_points
 
